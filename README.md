@@ -1,4 +1,8 @@
-Install the template
+# React boilerplate
+
+This is a react boilerplate template using tailwind.
+
+## Install
 
 ```bash
   git clone https://github.com/missboa/react-boilerplate.git
