@@ -4,28 +4,27 @@ This is a react boilerplate template for javascript using tailwind.
 
 ## Install
 
+Clone the Project
 ```bash
 git clone https://github.com/missboa/react-boilerplate.git my-app
 ```
 
-Installing npm
-
+Go to the project directory
 ```bash
 cd my-app
 ```
 
+Install dependencies
 ```bash
 npm install
 ```
 
-Removing git
-
+Remove the git
 ```bash
 rm -rf .git && rm -rf README.md
 ```
 
-Running the project
-
+Start the server
 ```bash
 npm run dev
 ```
