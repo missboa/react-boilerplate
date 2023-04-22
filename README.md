@@ -16,3 +16,9 @@ Running the project
 ```bash
   npm run dev
 ```
+
+Removing git
+
+```bash
+  rm -rf .git
+```
