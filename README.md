@@ -15,14 +15,14 @@ Installing npm
   npm install
 ```
 
-Running the project
-
-```bash
-  npm run dev
-```
-
 Removing git
 
 ```bash
   rm -rf .git
+```
+
+Running the project
+
+```bash
+  npm run dev
 ```
