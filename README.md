@@ -1,6 +1,6 @@
 # React boilerplate
 
-This is a react boilerplate template using tailwind.
+This is a react boilerplate template for javascript using tailwind.
 
 ## Install
 
