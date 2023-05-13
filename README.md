@@ -19,11 +19,12 @@ Install dependencies
 npm install
 ```
 
-Remove the git
+Remove the git (window)
 ```bash
 rd /s /q ".git" && del README.md
 ```
 
+(ubuntu)
 ```bash
 rm -rf .git && rm -rf README.md
 ```
